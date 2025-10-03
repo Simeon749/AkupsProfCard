@@ -1,0 +1,19 @@
+.Image {
+    width: 300px;
+    height: 325px;
+    border: 5px dashed darkgreen;
+    border-radius: 5px;
+    text-align: center;
+    margin: 100px;
+    background-color: ghostwhite;
+}
+h1 {
+    font-family: fantasy;
+    color: black;
+    text-decoration: underline;
+}
+h2 {
+    font-family: fantasy;
+    color: black;
+    text-decoration: underline;
+}
